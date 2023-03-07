@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="4916" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:04:01 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="4916" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:04:01 IST">
+      <class name="com.Spotify.oAuth2.Test.PlayListTests">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Spotify.oAuth2.Test.PlayListTests@285d851a]" name="beforeMethod" is-config="true" duration-ms="18" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:03:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Spotify.oAuth2.Test.PlayListTests.Negetive_CreatePlayList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Spotify.oAuth2.Test.PlayListTests@285d851a]" name="beforeMethod" is-config="true" duration-ms="18" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:03:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Spotify.oAuth2.Test.PlayListTests.CreatePlayList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Spotify.oAuth2.Test.PlayListTests@285d851a]" name="beforeMethod" is-config="true" duration-ms="18" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:03:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Spotify.oAuth2.Test.PlayListTests.UpdatePlayList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Spotify.oAuth2.Test.PlayListTests@285d851a]" name="beforeMethod" is-config="true" duration-ms="18" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:03:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Spotify.oAuth2.Test.PlayListTests.GetPlayList()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CreatePlayList()[pri:0, instance:com.Spotify.oAuth2.Test.PlayListTests@285d851a]" name="CreatePlayList" duration-ms="4686" started-at="2023-03-07T18:03:56 IST" description="Create Play List APi" finished-at="2023-03-07T18:04:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePlayList -->
+        <test-method status="PASS" signature="Negetive_CreatePlayList()[pri:0, instance:com.Spotify.oAuth2.Test.PlayListTests@285d851a]" name="Negetive_CreatePlayList" duration-ms="4588" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:04:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Negetive_CreatePlayList -->
+        <test-method status="PASS" signature="UpdatePlayList()[pri:0, instance:com.Spotify.oAuth2.Test.PlayListTests@285d851a]" name="UpdatePlayList" duration-ms="4570" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:04:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdatePlayList -->
+        <test-method status="PASS" signature="GetPlayList()[pri:0, instance:com.Spotify.oAuth2.Test.PlayListTests@285d851a]" name="GetPlayList" duration-ms="4594" started-at="2023-03-07T18:03:56 IST" finished-at="2023-03-07T18:04:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPlayList -->
+      </class> <!-- com.Spotify.oAuth2.Test.PlayListTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
