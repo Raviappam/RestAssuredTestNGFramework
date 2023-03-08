@@ -13,7 +13,7 @@ import static io.restassured.RestAssured.given;
 
 public class RestReusable {
 
-    @Step
+
     public static Response post(String path, String token , Object requestplaylist){
 
 
@@ -27,7 +27,7 @@ public class RestReusable {
                 response();
     }
 
-    @Step
+
     public static Response get(String path, String token){
 
         return given(getRequestSpec()).
@@ -39,7 +39,7 @@ public class RestReusable {
                 response();
     }
 
-    @Step
+
     public static Response update(String path, String token, Object  requestplaylist){
 
         return given(getRequestSpec()).

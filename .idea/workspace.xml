@@ -1,7 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ef71a5c-5b7c-4704-a76c-a1af794c38e8" name="Default Changelist" comment="" />
+    <list default="true" id="7ef71a5c-5b7c-4704-a76c-a1af794c38e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/01143602-f141-433c-b085-de81f5492e21-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0169453b-b903-4cc6-b053-b6bbacb59c84-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/019f7254-aab3-4bcc-b277-314f6f968723-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/02c281da-a543-4146-acac-68dd9d56641e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/044c58ec-4b53-478c-acf4-fd7d536f7995-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/07537c5a-6e81-42ca-9dd7-b670ffc10e18-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0d21a643-d93c-4753-ac3b-0ac165c3e22b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0dab1421-c009-476c-9bc7-fbc032965e9e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0f6da846-0ebf-438c-92c6-bad6378dfc5b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/127f4e12-31c9-441c-bc78-056ed802346b-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/14820842-7b38-4cf2-bc9f-f82007dccaf0-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/16d54a73-5af2-4f90-8edc-21178f98cd91-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/19bbe42d-4b60-4467-9efc-ca911eb6a4bf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1b039bff-e107-4196-a933-fc28c1e588b3-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1e34e6a4-d574-466a-aad4-bde0d66cdff3-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1e76d5c3-eb69-46ba-925a-c14d01fd2089-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1f4f5cd9-a3bb-4a4d-9c38-7ee75fc1c528-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1f6775e1-a09c-421b-9d7b-d97edce767d7-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1f9c5a53-3bb6-45e8-b641-999866131660-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1fa0a7c4-6124-414b-ba1f-489e23b51bb6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/21a81526-2aca-45c0-b9e7-5af0c43751e4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/21c2909f-7a33-4762-ae67-b03efc118811-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/22ffbe1c-2a49-44ab-b71f-ff0e075b51dd-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/25eebf2d-530a-4798-9195-53b5dc905359-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2aa3b219-ee11-4f66-a248-2aadca9e62d0-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2bbe7f89-4d00-4d45-b34a-15e3c1db56c0-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2bc5faf1-6121-42db-99d0-3f3d2ea40a2d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2c753631-68eb-49e7-a4d4-1bedfd8bc050-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2d191ed9-576f-4f21-89bc-16526e16db4a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2d3fa1c5-879e-437d-b0da-c5f9934f0376-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2d4e98a8-7657-479a-a9da-9c839b6e86ac-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2f844c39-1b88-4395-a52a-cc192387516e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3244bbfd-18e6-4446-b084-75b5a42e3ffb-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/334c4773-2d25-44b3-88cf-5d9d981c7727-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/34aede73-6b72-4adc-b413-e7c82abc3bed-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/374762e9-d248-481c-8c1b-8b01a4127416-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/38ccc825-781b-4e88-9589-948a62b01286-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/39421638-dfdc-481a-8513-aeb853e1a7ff-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3a0508a0-66b6-4a66-8655-53db4ab2d21a-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3a3ef109-aa4b-49a2-80d0-c8a080b3e7a7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3a88eb4c-e740-4bb1-b2f5-598ddfbe9049-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3af3251f-28ed-4ec0-8e7e-74dadde9125a-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3c82a5e6-48b2-4fdc-96f4-3edc20beb789-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3d9351dc-5a47-46e4-8281-837106c80d6b-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3fb33026-ece6-45c6-bc5a-6d2835046aae-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/419198f2-6bd4-45fb-99df-8795c33eab09-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/41f77319-6c0f-4df2-b771-d4e8b84db5b2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/42c0b89c-bc1a-43ff-86e3-b621272fd7d5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/453a46f1-1a2f-4056-a7d1-ccd26c5733e5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4596cc59-e6b5-4473-8706-f22d8c67cd54-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4633d1f8-dd5e-4e5a-9e30-4de8936a03aa-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/484396af-3bcd-46ce-8604-fb8914016bf1-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/48b9719b-3917-4ec1-9682-96dbb222e3a8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4932e1c1-8638-4fb3-b9a5-6a8d1a1995f0-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4939c639-43d7-4afc-a186-3e038dac159a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4d71e259-4022-4f58-b4af-d810d5e1a790-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4eca9e65-f520-40c1-a9f3-7ab1bb5cc0d6-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/50bd8b5a-3121-4d30-a7f2-5f1d7921d900-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/50ea5d30-5701-4a7a-bf39-46d95f59ab52-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/52f7c6fc-06e6-4ea4-a140-38012a80643d-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/53952d95-c0d3-4820-94d2-0f3d4974c219-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/557fdb06-5984-4d0d-80df-735f2931d954-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/56d134ce-5dc5-4bed-a614-2457cdcaf629-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/570cf60d-2c17-4cbe-9c72-8eb2adf1d711-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/57620f94-1a57-415c-9c2e-edf7ac339f80-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/57c548b4-766e-4bec-9359-e963a1704b2a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5878476b-3512-4977-8d06-474be9dc9d80-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5904e08c-36e2-457f-abd9-46e145a8ee01-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5a67fbb0-4156-4cfe-af78-54729ac7dbd4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5d51970b-b68c-459f-8a18-c75bf978b802-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5eca6d43-5ec4-4ca1-8233-d2695f63a02c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/61bc7b42-3386-4d6a-bafe-5903e40a3bda-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/622bcb4c-6f59-40d6-83be-7baa35652902-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/64dca4a7-a540-470b-8a12-12a57893d5f2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/683f8506-a3a9-4006-982b-225237a8145e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6874de25-978d-4ad4-bba4-1305f7304d11-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6b03f922-7e2b-4a31-9d6c-5d153b080e2e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6b9f68ba-807d-4a74-aca8-1e66cf93a8e9-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6d931e15-d112-4903-8769-0b45f1d63ad2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6e158700-4b13-4793-82bf-758b5382de18-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6e53cd5d-5a3b-486c-85c3-95d202ad85fa-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/714d84af-dc8f-4894-b1b4-6771fd2406a9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7185bbde-ecef-4d9f-a56b-9ece77f75822-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7236a65a-2a52-41cf-ae1f-4bd72b85f635-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/72a3ba13-359e-4e4e-be0d-529a07e522c6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/73005b61-bc3c-41f6-a8c1-d50c59c034b4-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/733fcbc2-1783-49f9-bacb-910a7a6b0b10-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/739e9930-7209-4d0f-a206-803103fef4ca-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/75fc2add-8b84-42e3-a370-49772fd30b46-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/784f5bc6-f3cc-4b9e-b912-eefcb8f4b7b2-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7a853828-61d2-4129-90a8-540d344062b3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7e2875eb-c8c5-437a-84ac-6882cfabf4f1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7ea8676c-fcbc-482d-898d-847eb6e67cce-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7f1bdd5e-f252-4305-9459-244fa7fbe0b4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7f4179b4-e9ee-4b25-ae37-c7e93c8b2a46-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7feb6d55-7751-4a4f-892b-fec4c3343c57-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/80e4b963-3c03-43e8-9d35-86f020f3c64f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/815c17df-1702-404b-bb59-e884fed7f9ca-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/81a825ef-9b77-488e-907f-c8fa59b4ce78-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/81f82a48-61b7-4384-9542-2d1e75f5dbd6-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/84757f65-16c2-4ec0-be42-6fccfc105928-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/88930951-1dc9-4abd-9320-8679a45764c3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8912c8d4-4068-452b-aeee-7fd5acee7bce-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/89ef14e4-0204-4e07-9302-7795d4b6e8c9-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8a048898-f575-4de4-83d5-4cdc1b78af9b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8b2ec71d-af8a-48ab-8e17-553b617b4936-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8b5be7b4-59e4-4571-9064-139657ff6134-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8da5a9ba-7b1e-4681-ab25-00fbd2968d39-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8e7f1bdd-a62f-427e-8193-af999d1f707f-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8efcdaf3-7fe6-45c5-862a-ccc65c6c9e0c-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8f2039e6-61d3-440a-8e56-2b880e0b43f9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9171f25e-22a9-42e2-9936-014bd006d795-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/917f50ed-248a-4bd2-a24e-024da8e54e17-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/93584e8e-6421-4041-a7e3-3bc5918fae9c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/94d9da05-a006-455b-b947-09edfd82fd1a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/95909342-b081-4d63-b220-ecf191e57b38-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/98357a51-36e9-4a27-b788-092f0139da96-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9994a496-19ad-4497-bac0-ac2078c61681-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/99be4c1d-b84e-42b6-957e-6c6ab6e363cb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9a6a16d3-1d30-4515-9b05-99d9f9a86a0c-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9bb1cd1b-389c-4a51-bf51-e7cb24052340-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9e9b9e11-e9e7-4a43-a679-1a0975f76ac5-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9ee4cb61-fab0-463e-b171-7675bb40e448-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9f8dff40-f4ac-45a3-84b2-f43011369a6c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9fa907d6-e69a-46e7-a85d-02f905d40eee-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a1292e71-446a-4159-9bbb-27c0454981c3-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a5a901f3-a519-418a-b53f-50e2d0268bb5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a5ed723c-e4dd-40d3-8796-9bf249b693d2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a601fdfd-5a86-4775-b4dc-3e07f823209e-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a679d572-1134-4d68-b08a-2a2c65454f24-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a7023683-7474-4a29-acb7-369118f147c3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a70f252b-dd2b-45cd-a47b-30e01d886a54-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/aaa47ada-c60e-498c-a711-75b6b0b2cd8f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/abf9c17b-63e7-4f41-a9b3-987ad305ae06-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ae90e928-3522-4855-b4ef-1483407e93bd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/af7aa8e7-bb97-4fc0-80f3-3f274c70a7dc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/afe41df4-d92b-4169-9882-708a6a0104d5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/aff5a17a-b636-46ac-9b61-395ca53639a0-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b071af2d-bb4f-4c5c-b326-9f5f4f4524f9-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b31057b7-4e92-44c2-90b6-6f38779049c4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b317f36b-4ab4-4b1d-923e-9d262055eaa4-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b598601f-aa9d-420b-8023-ef0a37d2a804-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b6d010ae-36b6-460e-a9d7-9c1ffe1df05f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b74da438-af0d-4189-bf30-77f48388951a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b7ed7e8e-1f42-45bf-8556-0f82ec57aa60-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b88d4a63-c24f-4168-9788-283eaa5800cd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b8a618e5-750f-48ff-b840-e660ffa09f48-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bc46e50c-8b51-4bad-acfc-d6889eab2a54-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/be0557a2-eb8b-4046-bfd6-4b027564b812-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/be3b50fc-b359-47fb-84d2-2a0fc0fc29d5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c220bb85-fc17-4b60-b4db-521d3dfc261d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c3696fb9-7f51-4c99-a0b0-6cb9ca0a7fe3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c44033d0-7923-4fd9-b905-3112ec672e26-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c4dca0e2-1e0d-41d5-a7d0-63194eb46781-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c4f5709d-4111-451f-a405-426e4bf45733-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c5bb8f41-b5a7-4411-bffc-d4027ff03a8d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c5c0e7cb-8fad-4933-b0f7-722f782721e0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c891e560-f624-4301-b247-34a3a734f578-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c8b5d9bd-ee44-46fb-8ead-8b6bb8742450-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cb608d96-0d6b-49fb-b381-8a82511db271-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cbffcbc7-4c17-4133-8435-164f5474b00e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ccbf9dd0-e498-4b4e-bfa8-d22766085bc3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ce9b3284-1143-4f8a-94ec-7b1586e8014f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d1839a6b-4d3c-49bc-9fe4-45cd14e7627c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d1ef8bbb-fe66-4dbe-b576-bfe87443cc0b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d21033e4-fd94-4ba8-93f3-fa5b7e8cec4f-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d2ff3f4a-0b83-4a1c-90d2-752a81eabe77-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d5054f9e-776d-49d2-892c-b994f2491507-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d8717e27-70de-407f-afce-392df0cbf5c3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/de2b6c82-0602-445f-b9e0-ca1d242a6fbe-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e06dd145-8ac5-4f0a-bbc7-d61cc0950068-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e0fa1f77-c47e-42a3-ad90-ed42cf0149e3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e165a1cc-de98-4829-a89a-2ff72d3bf755-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e5d5a2e2-de57-4b83-b865-925e33e7e990-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e8856149-782f-42f6-8b37-63a1b6f697a6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eaee3f75-73c2-4af5-8935-46bf46e006bd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eb68bae6-63cd-4024-a6a9-9ac9d8ebd61b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ebb6bc71-11d8-40ae-bd8f-476b8e3501e2-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ec0afce3-ccb2-40c3-bf8a-c7d1018c8c32-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ecf03195-49bf-4a0b-a2f5-bda6ebc26dde-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ecf3f857-cf12-4b90-b682-85bb0fef3f3f-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ed42b25e-1f55-4725-a0de-75aa3b011902-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eda55fe5-2045-4663-9199-4403fb9f2b91-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ef329ad2-fd23-46f7-97d9-cdd334312cbe-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/efed74a7-051a-4016-bf10-37a1cea79b9c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f7ec0c91-4aa5-4800-870c-daf0c9a11bc3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f907268f-a682-4314-8f1e-7d13826f919b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fb2cf8bb-c07a-4db5-82e2-4fe1a8565667-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fe2e36cd-f338-43da-9246-9745eab59344-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/PlayListTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/PlayListTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/RestReusable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/RestReusable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Spotify/oAuth2/Test/PlayListTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/Spotify/oAuth2/Test/PlayListTests.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,13 +208,16 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="API_Automation_RestAssured" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/PlayListTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            <state relative-caret-position="224">
+              <caret line="157" column="22" lean-forward="true" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,32 +228,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/SpecBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/TokenManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,8 +240,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/RestReusable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="780">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,7 +252,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Utils/ConfigLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
+            <state relative-caret-position="600">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,19 +262,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resorces/Config.Properties">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Utils/PropertyUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+            <state relative-caret-position="323">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
             </state>
           </provider>
         </entry>
@@ -142,11 +319,11 @@
         <option value="$PROJECT_DIR$/src/test/java/Utils/ConfigLoader.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/TokenManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Pojo/Playlist.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/RestReusable.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/PlayListTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/SpecBuilder.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/RestReusable.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/PlayListTests.java" />
       </list>
     </option>
   </component>
@@ -189,6 +366,11 @@
             <path>
               <item name="API_Automation_RestAssured" type="b2602c69:ProjectViewProjectNode" />
               <item name="API_Automation_RestAssured" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="API_Automation_RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API_Automation_RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="allure-results" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="API_Automation_RestAssured" type="b2602c69:ProjectViewProjectNode" />
@@ -299,6 +481,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -316,7 +499,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.PlayListTests">
+    <configuration name="PlayListTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API_Automation_RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Spotify.oAuth2.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.Spotify.oAuth2.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.Spotify.oAuth2.Test.PlayListTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea mvn test -DBASE_URI=&quot;https://api.spotify.com&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PlayListTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API_Automation_RestAssured" />
       <extension name="coverage">
@@ -331,6 +540,33 @@
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true -DBASE_URI=&quot;https://api.spotify.com&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayListTests.CreatePlayList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API_Automation_RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Spotify.oAuth2.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.Spotify.oAuth2.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.Spotify.oAuth2.Test.PlayListTests" />
+      <option name="METHOD_NAME" value="CreatePlayList" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea mvn test -DBASE_URI=&quot;https://api.spotify.com&quot;" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -361,9 +597,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.PlayListTests" />
+      <item itemvalue="TestNG.PlayListTests (1)" />
+      <item itemvalue="TestNG.PlayListTests.CreatePlayList" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.PlayListTests" />
+        <item itemvalue="TestNG.PlayListTests (1)" />
+        <item itemvalue="TestNG.PlayListTests.CreatePlayList" />
       </list>
     </recent_temporary>
   </component>
@@ -381,27 +624,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PlayListTests - 2023.03.06 at 21h 44m 37s.xml">
-      <configuration name="PlayListTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PlayListTests - 2023.03.06 at 21h 56m 53s.xml">
-      <configuration name="PlayListTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PlayListTests - 2023.03.06 at 22h 02m 24s.xml">
-      <configuration name="PlayListTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PlayListTests - 2023.03.06 at 22h 04m 39s.xml">
-      <configuration name="PlayListTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PlayListTests - 2023.03.06 at 22h 11m 28s.xml">
-      <configuration name="PlayListTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PlayListTests - 2023.03.06 at 22h 15m 30s.xml">
-      <configuration name="PlayListTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PlayListTests - 2023.03.06 at 22h 20m 36s.xml">
-      <configuration name="PlayListTests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PlayListTests_(1) - 2023.03.07 at 18h 05m 39s.xml">
       <configuration name="PlayListTests (1)" configurationId="TestNG" />
     </history-entry>
@@ -411,27 +633,57 @@
     <history-entry file="PlayListTests - 2023.03.07 at 18h 09m 02s.xml">
       <configuration name="PlayListTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="PlayListTests_(1) - 2023.03.07 at 21h 45m 07s.xml">
+      <configuration name="PlayListTests (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PlayListTests - 2023.03.07 at 21h 45m 37s.xml">
+      <configuration name="PlayListTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PlayListTests_CreatePlayList - 2023.03.07 at 21h 55m 52s.xml">
+      <configuration name="PlayListTests.CreatePlayList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PlayListTests - 2023.03.07 at 21h 56m 43s.xml">
+      <configuration name="PlayListTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PlayListTests - 2023.03.07 at 23h 23m 52s.xml">
+      <configuration name="PlayListTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PlayListTests_(1) - 2023.03.07 at 23h 44m 51s.xml">
+      <configuration name="PlayListTests (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PlayListTests - 2023.03.07 at 23h 45m 11s.xml">
+      <configuration name="PlayListTests" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="954" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" sideWeight="0.5008944" side_tool="true" weight="0.25274727" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008944" side_tool="true" weight="0.25274727" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2364946" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42857143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39975992" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32893157" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.44777912" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893157" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32893157" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
@@ -471,18 +723,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Utils/PropertyUtils.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -492,23 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Test/PutRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Test/PostRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -583,16 +806,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/applicationApi/Playlist.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utils/PropertyUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.4.0/testng-7.4.0.jar!/org/testng/internal/MethodRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -663,16 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Test/GetRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/allure-results/0d21a643-d93c-4753-ac3b-0ac165c3e22b-result.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -694,16 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="166" column="31" lean-forward="true" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utils/ConfigLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -734,26 +927,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/RestReusable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/SpecBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -764,20 +937,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/PlayListTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Test/PutRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajcore.20230307.214530.685.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        <state relative-caret-position="323">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/api/RestReusable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utils/ConfigLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Test/PostRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Test/GetRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utils/PropertyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Spotify/oAuth2/Test/PlayListTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="157" column="22" lean-forward="true" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
