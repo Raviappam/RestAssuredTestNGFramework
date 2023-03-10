@@ -68,4 +68,12 @@ public class ConfigLoader {
 
     }
 
+    public String getBaseUrl(){
+
+        String prop = properties.getProperty("BASE_URI");
+        if(prop!=null)return prop;
+        else throw new RuntimeException("property BASE_URI is not specified in the config.properties file");
+
+    }
+
 }
