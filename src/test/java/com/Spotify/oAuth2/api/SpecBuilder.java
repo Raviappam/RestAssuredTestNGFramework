@@ -15,8 +15,8 @@ public class SpecBuilder {
     public static RequestSpecification getRequestSpec(){
 
     return new RequestSpecBuilder().
-            setBaseUri(System.getProperty("BASE_URI")).      //this is required if we need from intellij
-//                setBaseUri("https://api.spotify.com").    // this is required if we want to run through command
+//            setBaseUri(System.getProperty("BASE_URI")).      //this is required if we need from intellij
+                setBaseUri("https://api.spotify.com").    // this is required if we want to run through command
                 setBasePath("/v1/").
                 setContentType(ContentType.JSON).
             addFilter(new AllureRestAssured()).    //to get request and responce in the report
