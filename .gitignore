@@ -1,4 +1,4 @@
 .idea/
-Target/
+target/
 *.iml/
-.gitignore/
+.gitignore/git rm --cached API_Automation_RestAssured.iml
