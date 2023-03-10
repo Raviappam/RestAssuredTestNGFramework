@@ -60,5 +60,12 @@ public class ConfigLoader {
         else throw new RuntimeException("property user_id is not specified in the config.properties file");
 
     }
+    public String getPlayListID(){
+
+        String prop = properties.getProperty("playList_id");
+        if(prop!=null)return prop;
+        else throw new RuntimeException("property playList_id is not specified in the config.properties file");
+
+    }
 
 }

@@ -1,5 +1,6 @@
 package com.Spotify.oAuth2.Test;
 
+import Utils.ConfigLoader;
 import com.Spotify.oAuth2.Pojo.Error;
 import com.Spotify.oAuth2.Pojo.ErrorRoute;
 import com.Spotify.oAuth2.Pojo.Playlist;
@@ -83,7 +84,7 @@ public class PlayListTests extends BaseTest{
         setPublic(false);
         Allure.addAttachment("Request Data", requestplaylist.toString());
 
-        Response response = Playtrackapi.get("6qwGEIp5wwKGWluBO3VHzm");
+        Response response = Playtrackapi.get(ConfigLoader.getInstance().getPlayListID());
         Allure.addAttachment("Response Code", Integer.toString(response.statusCode()));
         assertThat(response.statusCode(),equalTo(200));
         Playlist responseplaylist = response.as(Playlist.class);
@@ -126,7 +127,7 @@ public class PlayListTests extends BaseTest{
 //                "  \"public\": false\n" +
 //                "}";
 
-        Response response = Playtrackapi.update("6qwGEIp5wwKGWluBO3VHzm", requestplaylist);
+        Response response = Playtrackapi.update(ConfigLoader.getInstance().getPlayListID(), requestplaylist);
 
         Allure.addAttachment("Response Code", Integer.toString(response.statusCode()));
         assertThat(response.statusCode(),equalTo(200));
