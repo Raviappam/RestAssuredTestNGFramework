@@ -177,6 +177,7 @@ public class PlayListTests extends BaseTest{
         assertThat(errorRoute.getError().getStatus(),equalTo(400));
 
         Allure.addAttachment("Error Message", errorRoute.getError().getMessage());
+        Allure.addAttachment("Error Message", errorRoute.getError().getMessage());
         assertThat(errorRoute.getError().getMessage(),equalTo("Missing required field: name"));
 
 //                body("error.status",equalTo(400),"error.message",equalTo("Missing required field: name") );

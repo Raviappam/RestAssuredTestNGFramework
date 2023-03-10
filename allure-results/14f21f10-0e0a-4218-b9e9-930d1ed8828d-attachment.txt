@@ -1,0 +1,39 @@
+{
+  "collaborative" : false,
+  "description" : "New playlist description",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/playlist/0pUsfLtK68vx3uzxC6WDub"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 0
+  },
+  "href" : "https://api.spotify.com/v1/playlists/0pUsfLtK68vx3uzxC6WDub",
+  "id" : "0pUsfLtK68vx3uzxC6WDub",
+  "images" : [ ],
+  "name" : "New Playlist",
+  "owner" : {
+    "display_name" : "appu",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/31a5hxq5yggwa3vks626yisvow6y"
+    },
+    "href" : "https://api.spotify.com/v1/users/31a5hxq5yggwa3vks626yisvow6y",
+    "id" : "31a5hxq5yggwa3vks626yisvow6y",
+    "type" : "user",
+    "uri" : "spotify:user:31a5hxq5yggwa3vks626yisvow6y"
+  },
+  "primary_color" : null,
+  "public" : false,
+  "snapshot_id" : "MSw4NzRiYTQ2NzNkOTgzNjA3ODY1MDMzMGUyN2VjOWEzMTQxZTc4MGZj",
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/playlists/0pUsfLtK68vx3uzxC6WDub/tracks",
+    "items" : [ ],
+    "limit" : 100,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 0
+  },
+  "type" : "playlist",
+  "uri" : "spotify:playlist:0pUsfLtK68vx3uzxC6WDub"
+}
