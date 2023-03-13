@@ -29,7 +29,7 @@ public class PlayListTests extends BaseTest{
     @Description("this validates creation of play list")// to add the description in the reports
     @Test(description = "Create Play List APi") // to display different name than method name use this allure annotation
 
-    public void CreatePlayList(){
+    public void CreatePlayList() {
 
         Playlist requestplaylist = new Playlist().
                 setName("New Playlist").
@@ -37,29 +37,13 @@ public class PlayListTests extends BaseTest{
                 setPublic(false);
         Allure.addAttachment("Request Data", requestplaylist.toString());
 
+        Response response = Playtrackapi.post(requestplaylist);
+        Allure.addAttachment("Response Code", Integer.toString(response.statusCode()));
+        assertThat(response.statusCode(), equalTo(201));
 
-//        String Payload = "{\n" +
-//                "  \"name\": \"New Playlist\",\n" +
-//                "  \"description\": \"New playlist description\",\n" +
-//                "  \"public\": false\n" +
-//                "}";
+        Playlist responseplaylist = response.as(Playlist.class);
+        Allure.addAttachment("Response Body", response.getBody().asString());
 
-
-
-                    Response response = Playtrackapi.post(requestplaylist);
-                    Allure.addAttachment("Response Code", Integer.toString(response.statusCode()));
-                    assertThat(response.statusCode(), equalTo(201));
-                    Playlist responseplaylist = response.as(Playlist.class);
-                    Allure.addAttachment("Response Body", response.getBody().asString());
-
-//        Playlist responseplaylist = given(getRequestSpec()).
-//                body(requestplaylist).
-//                when().post("/users/31a5hxq5yggwa3vks626yisvow6y/playlists").
-//                then().spec(getResponseSpec()).
-//                assertThat().statusCode(201).
-//                extract().
-//                response().
-//                as(Playlist.class);
 
         Allure.addAttachment("Response Playlist Name", responseplaylist.getName());
         Allure.addAttachment("Request Playlist Name", requestplaylist.getName());
@@ -73,7 +57,7 @@ public class PlayListTests extends BaseTest{
         Allure.addAttachment("Request Playlist Public Flag", Boolean.toString(requestplaylist.getPublic()));
         assertThat(responseplaylist.getPublic(), equalTo(requestplaylist.getPublic()));
 
-}
+    }
 
     @Test
     public void GetPlayList(){
@@ -90,14 +74,6 @@ public class PlayListTests extends BaseTest{
         Playlist responseplaylist = response.as(Playlist.class);
         Allure.addAttachment("Response Body", response.getBody().asString());
 
-//        Playlist responseplaylist = given(getRequestSpec()).
-//
-//                when().get("/playlists/6qwGEIp5wwKGWluBO3VHzm").
-//                then().spec(getResponseSpec()).
-//                assertThat().statusCode(200).
-//                extract().
-//                response().
-//                as(Playlist.class);
         Allure.addAttachment("Response Playlist Name", responseplaylist.getName());
         Allure.addAttachment("Request Playlist Name", requestplaylist.getName());
         assertThat(responseplaylist.getName(), equalTo(requestplaylist.getName()));
@@ -121,30 +97,17 @@ public class PlayListTests extends BaseTest{
                 setPublic(false);
         Allure.addAttachment("Request Data", requestplaylist.toString());
 
-//        String payload = "{\n" +
-//                "  \"name\": \"Updated Playlist Name\",\n" +
-//                "  \"description\": \"Updated playlist description\",\n" +
-//                "  \"public\": false\n" +
-//                "}";
-
         Response response = Playtrackapi.update(ConfigLoader.getInstance().getPlayListID(), requestplaylist);
 
         Allure.addAttachment("Response Code", Integer.toString(response.statusCode()));
-        assertThat(response.statusCode(),equalTo(200));
-
-
-//       given(getRequestSpec()).
-//                body(requestplaylist).
-//                when().put("/playlists/6qwGEIp5wwKGWluBO3VHzm").
-//                then().spec(getResponseSpec()).
-//                assertThat().statusCode(200);
+        assertThat(response.statusCode(), equalTo(200));
 
 
     }
 
     @Story("Create play list story")
     @Test
-    public void Negetive_CreatePlayList(){
+    public void Negetive_CreatePlayList() {
 
         Playlist requestplaylist = new Playlist().
                 setName("").
@@ -152,35 +115,19 @@ public class PlayListTests extends BaseTest{
                 setPublic(false);
         Allure.addAttachment("Request Data", requestplaylist.toString());
 
-//        String Payload = "{\n" +
-//                "  \"name\": \"\",\n" +
-//                "  \"description\": \"New playlist description\",\n" +
-//                "  \"public\": false\n" +
-//                "}";
-
-        Response response=  Playtrackapi.post(requestplaylist);
+        Response response = Playtrackapi.post(requestplaylist);
         Allure.addAttachment("Response Code", Integer.toString(response.statusCode()));
-        assertThat(response.statusCode(),equalTo(400));
+        assertThat(response.statusCode(), equalTo(400));
 
         ErrorRoute errorRoute = response.as(ErrorRoute.class);
         Allure.addAttachment("Response Body", response.getBody().asString());
 
-//       ErrorRoute errorRoute = given(getRequestSpec()).
-//                body(requestplaylist).
-//                when().post("/users/31a5hxq5yggwa3vks626yisvow6y/playlists").
-//                then().spec(getResponseSpec()).
-//                assertThat().statusCode(400).
-//                extract().
-//                response().as(ErrorRoute.class);
-
         Allure.addAttachment("Error Status", Integer.toString(errorRoute.getError().getStatus()));
-        assertThat(errorRoute.getError().getStatus(),equalTo(400));
+        assertThat(errorRoute.getError().getStatus(), equalTo(400));
 
         Allure.addAttachment("Error Message", errorRoute.getError().getMessage());
         Allure.addAttachment("Error Message", errorRoute.getError().getMessage());
-        assertThat(errorRoute.getError().getMessage(),equalTo("Missing required field: name"));
-
-//                body("error.status",equalTo(400),"error.message",equalTo("Missing required field: name") );
+        assertThat(errorRoute.getError().getMessage(), equalTo("Missing required field: name"));
 
     }
 
